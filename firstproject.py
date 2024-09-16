@@ -43,4 +43,25 @@ n=26
 g=8
 print (n+g)
 
+#Common errors
+'''
+Syntax Error
+Index Error => l = [1,2,3] => 1 index is 0 , 2 index is 1, 3 index is 2 , when we asking out of the range it will occure Index Error => example => print(l(3))
+Module not found => same as JS
+'''
+#IN PYTHON DICTIONARIES LIKE OBJECT IN JS
+'''
+ WE HAVE ONLY 2 KEYS IN DICTIONARY, WHEN WE ASK D[3], IT WILL RETURN KEY ERROR BCZ WE DON'T HAVE 3RD KEY.
+'''
 
+'''
+IMPORT ERROR => Haven't install the module
+'''
+'''
+stop iteration error
+Type Error
+Value error
+Name error = Variable doesn't exist aaka irunthaal
+Zer0 division error =  when we trying to devide a number by 0, it will infinity so we will get zero division error.
+Keyboard Interrupt = when we trying particular programme suddenly when we type control c
+'''
