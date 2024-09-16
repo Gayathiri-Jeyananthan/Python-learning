@@ -19,3 +19,28 @@ print(type(y))
 print(type(z))
 
 #Convert a number from integer to float
+a= float (x)
+print(type(a))
+
+#Convert a number from  float to integer
+b=int(y)
+print(type(b))
+
+#Convert a number from integer to complex
+c=complex(x)
+print(type(c))
+print(c)
+
+#addition +
+#substraction -
+#multiplication *
+#division /
+#modulus %
+#exponential **
+# floor division // floor means matta paduththal
+
+n=26
+g=8
+print (n+g)
+
+
